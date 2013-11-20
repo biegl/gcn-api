@@ -1,0 +1,14 @@
+{
+  "name": "gcn",
+  "version": "0.0.1",
+  "description": "",
+  "main": "api.js",
+  "dependencies": {
+    "xmlhttprequest": "~1.6.0",
+    "jquery": "~1.8.3",
+    "mime": "~1.2.11"
+  },
+  "devDependencies": {},
+  "author": "Markus Bürgler",
+  "license": "MIT"
+}
